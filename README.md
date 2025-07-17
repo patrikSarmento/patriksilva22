@@ -2,7 +2,7 @@
 
 **`Desenvolvedor frontend`**
 
-Me chamo Patrik Sarmento da Silva, tenho 25 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio no RHLS, com o curso em porgramação(automação). Atualmente, estou cursando Programação e SLQ . Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no instagram e do meu perfil no linkedin.
+Me chamo Patrik Sarmento da Silva, tenho 25 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio no RHLS, com o curso em porgramação(Especialização em Python). Atualmente, estou cursando Analise e desenvolvimento de sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no instagram e do meu perfil no linkedin.
 
 <p align="left">
     <a href="https://github.com/patriksilva22?tab=followers">
